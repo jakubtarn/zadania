@@ -33,9 +33,11 @@ Uzyj instrukcji switch case.
 				echo '<p>fizyka';
 				case 6:
 				echo '<p>geografia';
+				case 7:
+				echo '<p>pai';
 				break;
 				default:
-				echo '<p>Nie znam takeigo numeru lekcji!';
+				echo '<p>Nie znam takiego numeru lekcji!';
 				
 			}
 		}
